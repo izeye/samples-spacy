@@ -1,0 +1,6 @@
+# Created by .gitignore support plugin (hsz.mobi)
+
+samples-spacy.iml
+.idea
+
+samples/moby_dick.bin
